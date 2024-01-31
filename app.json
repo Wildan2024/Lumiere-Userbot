@@ -1,9 +1,9 @@
 {
-  "name": "Lumiere-Userbot",
-  "description": "[Lumiere-Userbot] Buat senang senang doang",
+  "name": "Dan-Userbot",
+  "description": "[Dan-Userbot] Buat senang senang doang",
   "logo": "https://telegra.ph//file/085b459a7b7a963422eb5.jpg",
-  "keywords": ["telegram", "userbot", "Lumiere-Userbot", "modular", "python"],
-  "repository": "https://github.com/NotLumiere/Lumiere-Userbot",
+  "keywords": ["telegram", "userbot", "Dan-Userbot", "modular", "python"],
+  "repository": "https://github.com/Wildan2024/Lumiere-Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
